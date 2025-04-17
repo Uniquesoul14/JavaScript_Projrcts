@@ -3,27 +3,22 @@
 🎯 Quiz App
 A simple and interactive Quiz Application built using HTML, CSS, and JavaScript. This app offers users a timed experience with a set of multiple-choice questions, intuitive navigation, and a sleek UI.
 
-🚀 Features
+<h1>🚀 Features</h1>
 ⏱️ 10 Questions in 10 Minutes – Time-bound quiz to test your knowledge quickly.
-
 🔘 Radio Buttons – Select your answer from multiple choices.
-
 ⬅️➡️ Next & Previous Buttons – Navigate easily through the questions.
-
 📊 Dynamic Scoring & Validation – Instant feedback after submission.
 
-🧩 Technologies Used
+<h1>🧩 Technologies Used</h1>
 HTML5 – Markup for structure.
-
 CSS3 – Styling and layout.
-
 JavaScript (Vanilla) – Logic and interactivity.
 
-🎥 Demo
+<h1>🎥 Demo</h1>
 📽️ Watch the Demo Video Here:
 [Insert your YouTube/demo video link here]
 
-🛠️ Setup Instructions
+<h1>🛠️ Setup Instructions</h1>
 Clone the repository:
 
 
@@ -36,7 +31,7 @@ You can just double-click the file or use a live server extension in VS Code.
 📸 Preview
 Add a screenshot or gif here of your app UI (optional)
 
-📬 Contact
+<h1>📬 Contact</h1>
 Have questions, suggestions, or just want to say hi?
 
 📧 Email me at: 8391soumyanayak@gmail.com
