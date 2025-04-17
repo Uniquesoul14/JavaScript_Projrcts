@@ -1,5 +1,45 @@
 # JavaScript_Projrcts
 <h1>Day 1</h1>
+🎯 Quiz App
+A simple and interactive Quiz Application built using HTML, CSS, and JavaScript. This app offers users a timed experience with a set of multiple-choice questions, intuitive navigation, and a sleek UI.
+
+🚀 Features
+⏱️ 10 Questions in 10 Minutes – Time-bound quiz to test your knowledge quickly.
+
+🔘 Radio Buttons – Select your answer from multiple choices.
+
+⬅️➡️ Next & Previous Buttons – Navigate easily through the questions.
+
+📊 Dynamic Scoring & Validation – Instant feedback after submission.
+
+🧩 Technologies Used
+HTML5 – Markup for structure.
+
+CSS3 – Styling and layout.
+
+JavaScript (Vanilla) – Logic and interactivity.
+
+🎥 Demo
+📽️ Watch the Demo Video Here:
+[Insert your YouTube/demo video link here]
+
+🛠️ Setup Instructions
+Clone the repository:
+
+
+Navigate to the project folder:
+
+Open index.html in your browser:
+
+You can just double-click the file or use a live server extension in VS Code.
+
+📸 Preview
+Add a screenshot or gif here of your app UI (optional)
+
+📬 Contact
+Have questions, suggestions, or just want to say hi?
+
+📧 Email me at: 8391soumyanayak@gmail.com
 <hr>
 <h1>Day 2</h1>
 <hr>
