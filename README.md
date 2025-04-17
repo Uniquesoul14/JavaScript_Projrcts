@@ -4,14 +4,14 @@
 A simple and interactive Quiz Application built using HTML, CSS, and JavaScript. This app offers users a timed experience with a set of multiple-choice questions, intuitive navigation, and a sleek UI.
 
 <h2>🚀 Features</h2>
-⏱️ 10 Questions in 10 Minutes – Time-bound quiz to test your knowledge quickly.
-🔘 Radio Buttons – Select your answer from multiple choices.
-⬅️➡️ Next & Previous Buttons – Navigate easily through the questions.
-📊 Dynamic Scoring & Validation – Instant feedback after submission.
+⏱️ 10 Questions in 10 Minutes – Time-bound quiz to test your knowledge quickly.<br>
+🔘 Radio Buttons – Select your answer from multiple choices.<br>
+⬅️➡️ Next & Previous Buttons – Navigate easily through the questions.<br>
+📊 Dynamic Scoring & Validation – Instant feedback after submission.<br>
 
 <h2>🧩 Technologies Used</h2>
-HTML5 – Markup for structure.
-CSS3 – Styling and layout.
+HTML5 – Markup for structure.<br>
+CSS3 – Styling and layout.<br>
 JavaScript (Vanilla) – Logic and interactivity.
 
 <h2>🎥 Demo</h2>
