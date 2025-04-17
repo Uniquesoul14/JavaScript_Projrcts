@@ -18,7 +18,7 @@ JavaScript (Vanilla) – Logic and interactivity.
 📽️ Watch the Demo Video Here:
 [Insert your YouTube/demo video link here]
 
-<h1>🛠️ Setup Instructions</h1>
+<h2>🛠️ Setup Instructions</h2>
 Clone the repository:
 
 
