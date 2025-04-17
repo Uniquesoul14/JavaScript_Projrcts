@@ -1,6 +1,6 @@
 # JavaScript_Projrcts
-<h1>Day 1</h1>
-🎯 Quiz App
+<h1>Day 1_🎯 Quiz App</h1>
+
 A simple and interactive Quiz Application built using HTML, CSS, and JavaScript. This app offers users a timed experience with a set of multiple-choice questions, intuitive navigation, and a sleek UI.
 
 <h2>🚀 Features</h2>
