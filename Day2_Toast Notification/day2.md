@@ -17,8 +17,13 @@ CSS3 – Styling, transitions<br>
 JavaScript (Vanilla) – DOM manipulation & toast logic
 
 <h2>📽️ Demo</h2>
-🎥 Watch the Demo Video Here:
-[Insert your YouTube/demo video link here]
+
+
+
+
+https://github.com/user-attachments/assets/51c6f679-2f94-4219-bd7d-a2f6567b9503
+
+
 
 <h2>🛠️ How to Use</h2>
 Clone this repository:
