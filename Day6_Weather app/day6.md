@@ -17,13 +17,9 @@ Welcome to the Weather App — a sleek, dynamic, and user-friendly web applicati
 
 <h2>✨ Features</h2>
 Easy-to-use input field to search for your desired location<br>
-
 Beautiful and dynamic weather icons<br>
-
 Live updates of state name, weather status, humidity, and wind speed<br>
-
 Modern UI made with pure HTML, CSS, and JavaScript<br>
-
 Fully responsive design for all devices 📱💻
 
 
@@ -37,11 +33,8 @@ https://github.com/user-attachments/assets/a9713f83-8144-44ff-af9e-d9dda00118d0
 
 <h2>🛠️ Technologies Used</h2>
 HTML5<br>
-
 CSS3<br>
-
 JavaScript (Vanilla)<br>
-
 JS Props for dynamic data handling
 
 <h1>📬 Contact</h1>
