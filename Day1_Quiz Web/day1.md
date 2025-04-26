@@ -14,8 +14,14 @@ CSS3 – Styling and layout.<br>
 JavaScript (Vanilla) – Logic and interactivity.
 
 <h2>🎥 Demo</h2>
-📽️ Watch the Demo Video Here:
-[Insert your YouTube/demo video link here]
+
+
+
+
+https://github.com/user-attachments/assets/39cc1c94-95cd-4fb2-8cba-d5e2929b68d7
+
+
+
 
 <h2>🛠️ Setup Instructions</h2>
 Clone the repository:
