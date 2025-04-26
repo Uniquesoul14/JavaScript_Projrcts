@@ -22,12 +22,19 @@ Quote API – dummyjson data
 <h2>🎥 Demo</h2>
 
 
-🛠️ How to Run the Project
-Clone the repo:
+https://github.com/user-attachments/assets/2870a341-2ac6-4803-ba0b-aaa657e3ee94
 
-Open index.html in your browser:
 
-Just double-click it or open it via Live Server in VS Code.
+
+<h2>🛠️ How to Run the Project</h2>
+<h4>Clone the repo:</h4>
+
+https://github.com/Uniquesoul14/JavaScript_Projrcts/tree/main/Day5_Quote%20Generator
+
+<h4>Open index.html in your browser:</h4>
+
+https://github.com/Uniquesoul14/JavaScript_Projrcts/blob/main/Day5_Quote%20Generator/index.htm
+
 
 <h1>Enjoy the quotes! 🎉</h1>
 
